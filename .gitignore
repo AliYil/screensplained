@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Leipzig corpora (download them, see each video folder)
+*_100K/
+*.tar.gz
+*-sentences.txt

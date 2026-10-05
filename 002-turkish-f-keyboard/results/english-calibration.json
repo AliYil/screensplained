@@ -1,0 +1,50 @@
+{
+ "us": {
+  "letters": 9301538,
+  "top": 50.9,
+  "home_row": 33.2,
+  "bottom": 15.8,
+  "home_keys": 26.4,
+  "left": 58.9,
+  "right": 41.1,
+  "fingers": {
+   "LP": 8.7,
+   "LR": 8.8,
+   "LM": 19.3,
+   "LI": 22.2,
+   "RI": 19.1,
+   "RM": 8.2,
+   "RR": 11.6,
+   "RP": 2.2
+  },
+  "alternation": 52.1,
+  "same_finger": 7.1,
+  "same_key": 2.7,
+  "row_jumps": 11.8,
+  "travel_m_per_1000": 30.89
+ },
+ "dvorak": {
+  "letters": 9301538,
+  "top": 21.7,
+  "home_row": 69.9,
+  "bottom": 8.4,
+  "home_keys": 58.6,
+  "left": 43.5,
+  "right": 56.5,
+  "fingers": {
+   "LP": 8.5,
+   "LR": 7.6,
+   "LM": 12.4,
+   "LI": 15.0,
+   "RI": 16.9,
+   "RM": 14.1,
+   "RR": 14.6,
+   "RP": 11.0
+  },
+  "alternation": 70.6,
+  "same_finger": 2.5,
+  "same_key": 2.7,
+  "row_jumps": 0.8,
+  "travel_m_per_1000": 17.05
+ }
+}

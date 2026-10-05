@@ -1,0 +1,446 @@
+{
+ "about": "Turkish letters from Leipzig Corpora Collection (tur_news_2022_100K, tur_wikipedia_2021_100K, tur-tr_web_2019_100K). Letters only, Turkish-aware lowercasing, circumflex folded. Layouts from xkb symbols/tr (basic=Q, f=F). Geometry: ISO stagger, 1u=19.05mm, standard touch-typing fingers. 'home_keys' = the 8 resting keys. Pairs = consecutive letters inside a word.",
+ "letters_total": 26227575,
+ "letter_freq_pct": {
+  "a": 11.822,
+  "e": 9.594,
+  "i": 8.758,
+  "n": 7.435,
+  "r": 7.039,
+  "l": 7.025,
+  "ı": 4.596,
+  "k": 4.484,
+  "d": 4.275,
+  "t": 3.837,
+  "m": 3.524,
+  "s": 3.256,
+  "u": 3.027,
+  "y": 3.016,
+  "o": 2.541,
+  "b": 2.182,
+  "ü": 1.795,
+  "ş": 1.49,
+  "z": 1.384,
+  "g": 1.241,
+  "v": 1.177,
+  "h": 1.047,
+  "ç": 1.025,
+  "ğ": 0.976,
+  "c": 0.974,
+  "p": 0.945,
+  "ö": 0.789,
+  "f": 0.577,
+  "j": 0.109,
+  "w": 0.041,
+  "x": 0.014,
+  "q": 0.004
+ },
+ "layouts": {
+  "trq": {
+   "AD": [
+    {
+     "key": "q",
+     "finger": "LP",
+     "pct": 0.004
+    },
+    {
+     "key": "w",
+     "finger": "LR",
+     "pct": 0.041
+    },
+    {
+     "key": "e",
+     "finger": "LM",
+     "pct": 9.594
+    },
+    {
+     "key": "r",
+     "finger": "LI",
+     "pct": 7.039
+    },
+    {
+     "key": "t",
+     "finger": "LI",
+     "pct": 3.837
+    },
+    {
+     "key": "y",
+     "finger": "RI",
+     "pct": 3.016
+    },
+    {
+     "key": "u",
+     "finger": "RI",
+     "pct": 3.027
+    },
+    {
+     "key": "ı",
+     "finger": "RM",
+     "pct": 4.596
+    },
+    {
+     "key": "o",
+     "finger": "RR",
+     "pct": 2.541
+    },
+    {
+     "key": "p",
+     "finger": "RP",
+     "pct": 0.945
+    },
+    {
+     "key": "ğ",
+     "finger": "RP",
+     "pct": 0.976
+    },
+    {
+     "key": "ü",
+     "finger": "RP",
+     "pct": 1.795
+    }
+   ],
+   "AC": [
+    {
+     "key": "a",
+     "finger": "LP",
+     "pct": 11.822
+    },
+    {
+     "key": "s",
+     "finger": "LR",
+     "pct": 3.256
+    },
+    {
+     "key": "d",
+     "finger": "LM",
+     "pct": 4.275
+    },
+    {
+     "key": "f",
+     "finger": "LI",
+     "pct": 0.577
+    },
+    {
+     "key": "g",
+     "finger": "LI",
+     "pct": 1.241
+    },
+    {
+     "key": "h",
+     "finger": "RI",
+     "pct": 1.047
+    },
+    {
+     "key": "j",
+     "finger": "RI",
+     "pct": 0.109
+    },
+    {
+     "key": "k",
+     "finger": "RM",
+     "pct": 4.484
+    },
+    {
+     "key": "l",
+     "finger": "RR",
+     "pct": 7.025
+    },
+    {
+     "key": "ş",
+     "finger": "RP",
+     "pct": 1.49
+    },
+    {
+     "key": "i",
+     "finger": "RP",
+     "pct": 8.758
+    },
+    {
+     "key": ",",
+     "finger": "RP",
+     "pct": null
+    }
+   ],
+   "AB": [
+    {
+     "key": "z",
+     "finger": "LP",
+     "pct": 1.384
+    },
+    {
+     "key": "x",
+     "finger": "LR",
+     "pct": 0.014
+    },
+    {
+     "key": "c",
+     "finger": "LM",
+     "pct": 0.974
+    },
+    {
+     "key": "v",
+     "finger": "LI",
+     "pct": 1.177
+    },
+    {
+     "key": "b",
+     "finger": "LI",
+     "pct": 2.182
+    },
+    {
+     "key": "n",
+     "finger": "RI",
+     "pct": 7.435
+    },
+    {
+     "key": "m",
+     "finger": "RI",
+     "pct": 3.524
+    },
+    {
+     "key": "ö",
+     "finger": "RM",
+     "pct": 0.789
+    },
+    {
+     "key": "ç",
+     "finger": "RR",
+     "pct": 1.025
+    },
+    {
+     "key": ".",
+     "finger": "RP",
+     "pct": null
+    }
+   ]
+  },
+  "trf": {
+   "AD": [
+    {
+     "key": "f",
+     "finger": "LP",
+     "pct": 0.577
+    },
+    {
+     "key": "g",
+     "finger": "LR",
+     "pct": 1.241
+    },
+    {
+     "key": "ğ",
+     "finger": "LM",
+     "pct": 0.976
+    },
+    {
+     "key": "ı",
+     "finger": "LI",
+     "pct": 4.596
+    },
+    {
+     "key": "o",
+     "finger": "LI",
+     "pct": 2.541
+    },
+    {
+     "key": "d",
+     "finger": "RI",
+     "pct": 4.275
+    },
+    {
+     "key": "r",
+     "finger": "RI",
+     "pct": 7.039
+    },
+    {
+     "key": "n",
+     "finger": "RM",
+     "pct": 7.435
+    },
+    {
+     "key": "h",
+     "finger": "RR",
+     "pct": 1.047
+    },
+    {
+     "key": "p",
+     "finger": "RP",
+     "pct": 0.945
+    },
+    {
+     "key": "q",
+     "finger": "RP",
+     "pct": 0.004
+    },
+    {
+     "key": "w",
+     "finger": "RP",
+     "pct": 0.041
+    }
+   ],
+   "AC": [
+    {
+     "key": "u",
+     "finger": "LP",
+     "pct": 3.027
+    },
+    {
+     "key": "i",
+     "finger": "LR",
+     "pct": 8.758
+    },
+    {
+     "key": "e",
+     "finger": "LM",
+     "pct": 9.594
+    },
+    {
+     "key": "a",
+     "finger": "LI",
+     "pct": 11.822
+    },
+    {
+     "key": "ü",
+     "finger": "LI",
+     "pct": 1.795
+    },
+    {
+     "key": "t",
+     "finger": "RI",
+     "pct": 3.837
+    },
+    {
+     "key": "k",
+     "finger": "RI",
+     "pct": 4.484
+    },
+    {
+     "key": "m",
+     "finger": "RM",
+     "pct": 3.524
+    },
+    {
+     "key": "l",
+     "finger": "RR",
+     "pct": 7.025
+    },
+    {
+     "key": "y",
+     "finger": "RP",
+     "pct": 3.016
+    },
+    {
+     "key": "ş",
+     "finger": "RP",
+     "pct": 1.49
+    },
+    {
+     "key": "x",
+     "finger": "RP",
+     "pct": 0.014
+    }
+   ],
+   "AB": [
+    {
+     "key": "j",
+     "finger": "LP",
+     "pct": 0.109
+    },
+    {
+     "key": "ö",
+     "finger": "LR",
+     "pct": 0.789
+    },
+    {
+     "key": "v",
+     "finger": "LM",
+     "pct": 1.177
+    },
+    {
+     "key": "c",
+     "finger": "LI",
+     "pct": 0.974
+    },
+    {
+     "key": "ç",
+     "finger": "LI",
+     "pct": 1.025
+    },
+    {
+     "key": "z",
+     "finger": "RI",
+     "pct": 1.384
+    },
+    {
+     "key": "s",
+     "finger": "RI",
+     "pct": 3.256
+    },
+    {
+     "key": "b",
+     "finger": "RM",
+     "pct": 2.182
+    },
+    {
+     "key": ".",
+     "finger": "RR",
+     "pct": null
+    },
+    {
+     "key": ",",
+     "finger": "RP",
+     "pct": null
+    }
+   ]
+  }
+ },
+ "metrics": {
+  "trq": {
+   "letters": 26227575,
+   "top": 37.4,
+   "home_row": 44.1,
+   "bottom": 18.5,
+   "home_keys": 33.0,
+   "left": 47.4,
+   "right": 52.6,
+   "fingers": {
+    "LP": 13.2,
+    "LR": 3.3,
+    "LM": 14.8,
+    "LI": 16.1,
+    "RI": 18.2,
+    "RM": 9.9,
+    "RR": 10.6,
+    "RP": 14.0
+   },
+   "alternation": 48.8,
+   "same_finger": 8.8,
+   "same_key": 0.7,
+   "row_jumps": 8.7,
+   "travel_m_per_1000": 29.08
+  },
+  "trf": {
+   "letters": 26227575,
+   "top": 30.7,
+   "home_row": 58.4,
+   "bottom": 10.9,
+   "home_keys": 51.3,
+   "left": 49.0,
+   "right": 51.0,
+   "fingers": {
+    "LP": 3.7,
+    "LR": 10.8,
+    "LM": 11.7,
+    "LI": 22.8,
+    "RI": 24.3,
+    "RM": 13.1,
+    "RR": 8.1,
+    "RP": 5.5
+   },
+   "alternation": 79.0,
+   "same_finger": 5.9,
+   "same_key": 0.7,
+   "row_jumps": 1.6,
+   "travel_m_per_1000": 20.85
+  }
+ }
+}
