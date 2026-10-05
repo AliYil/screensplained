@@ -2,6 +2,8 @@
 
 Data, code and sources for the Screensplained video about the Turkish **F keyboard** (1955) and why most people in Turkey type on **Turkish Q** instead.
 
+▶️ **Watch the video:** https://www.youtube.com/watch?v=VMBXn1zRJk4
+
 ## What we measured
 
 We took **26,227,575 letters** of Turkish text and asked: *if a touch typist typed all of it, how would the work be spread over the keyboard on Turkish Q and on Turkish F?*

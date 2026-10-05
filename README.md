@@ -6,7 +6,7 @@ Each video has its own folder:
 
 | # | Video | What's in the folder |
 |---|---|---|
-| 002 | **Turkey Designed a Keyboard for Turkish. QWERTY Won Anyway.** | 26 million letters of Turkish typed on Turkish Q vs Turkish F: resting keys, pinky load, hand alternation, the 49 / 51 hand split; plus every source used in the video. [→ `002-turkish-f-keyboard/`](002-turkish-f-keyboard/) |
+| 002 | **[Turkey Designed a Keyboard for Turkish. QWERTY Won Anyway.](https://www.youtube.com/watch?v=VMBXn1zRJk4)** | 26 million letters of Turkish typed on Turkish Q vs Turkish F: resting keys, pinky load, hand alternation, the 49 / 51 hand split; plus every source used in the video. [→ `002-turkish-f-keyboard/`](002-turkish-f-keyboard/) |
 
 ## Found a mistake?
 
