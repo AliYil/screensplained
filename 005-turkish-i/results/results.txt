@@ -1,0 +1,14 @@
+Java        tr_TR         TITLE -> tıtle   title -> TİTLE   FILE = file: false  17.0.21.0.2
+C#          tr-TR         TITLE -> tıtle   title -> TİTLE   FILE = file: false  .NET 10.0.13
+C           tr_TR.UTF-8   TITLE -> tItle   title -> TiTLE   FILE = file: false  glibc 2.44
+Go          tr_TR.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   go1.27.3-X:nodwarf5
+Python      tr_TR.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   3.14.8
+JavaScript  tr-TR         TITLE -> title   title -> TITLE   FILE = file: true   Node v26.12.1
+Bash        tr_TR.UTF-8   TITLE -> tıtle   title -> TİTLE   FILE = file: false  5.3.20(1)-release
+Java        en_US         TITLE -> title   title -> TITLE   FILE = file: true   17.0.21.0.2
+C#          en-US         TITLE -> title   title -> TITLE   FILE = file: true   .NET 10.0.13
+C           en_US.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   glibc 2.44
+Go          en_US.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   go1.27.3-X:nodwarf5
+Python      en_US.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   3.14.8
+JavaScript  en-US         TITLE -> title   title -> TITLE   FILE = file: true   Node v26.12.1
+Bash        en_US.UTF-8   TITLE -> title   title -> TITLE   FILE = file: true   5.3.20(1)-release

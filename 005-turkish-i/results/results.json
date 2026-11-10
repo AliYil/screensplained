@@ -1,0 +1,132 @@
+{
+ "run": "2026-10-26",
+ "machine": "Linux (Arch), glibc locales tr_TR.UTF-8 and en_US.UTF-8",
+ "results": [
+  {
+   "lang": "Java",
+   "version": "17.0.21.0.2",
+   "locale": "tr_TR",
+   "api": "toLowerCase() / toUpperCase()",
+   "lower_TITLE": "tıtle",
+   "upper_title": "TİTLE",
+   "FILE_equals_file": false
+  },
+  {
+   "lang": "C#",
+   "version": ".NET 10.0.13",
+   "locale": "tr-TR",
+   "api": "ToLower() / ToUpper() / string.Compare(a, b, ignoreCase)",
+   "lower_TITLE": "tıtle",
+   "upper_title": "TİTLE",
+   "FILE_equals_file": false
+  },
+  {
+   "lang": "C",
+   "version": "glibc 2.44",
+   "locale": "tr_TR.UTF-8",
+   "api": "tolower() / toupper() / strcasecmp()",
+   "lower_TITLE": "tItle",
+   "upper_title": "TiTLE",
+   "FILE_equals_file": false
+  },
+  {
+   "lang": "Go",
+   "version": "go1.27.3-X:nodwarf5",
+   "locale": "tr_TR.UTF-8",
+   "api": "strings.ToLower / strings.ToUpper / strings.EqualFold",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "Python",
+   "version": "3.14.8",
+   "locale": "tr_TR.UTF-8",
+   "api": "str.lower() / str.upper()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "JavaScript",
+   "version": "Node v26.12.1",
+   "locale": "tr-TR",
+   "api": "toLowerCase() / toUpperCase()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "Bash",
+   "version": "5.3.20(1)-release",
+   "locale": "tr_TR.UTF-8",
+   "api": "${var,,} / ${var^^}",
+   "lower_TITLE": "tıtle",
+   "upper_title": "TİTLE",
+   "FILE_equals_file": false
+  },
+  {
+   "lang": "Java",
+   "version": "17.0.21.0.2",
+   "locale": "en_US",
+   "api": "toLowerCase() / toUpperCase()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "C#",
+   "version": ".NET 10.0.13",
+   "locale": "en-US",
+   "api": "ToLower() / ToUpper() / string.Compare(a, b, ignoreCase)",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "C",
+   "version": "glibc 2.44",
+   "locale": "en_US.UTF-8",
+   "api": "tolower() / toupper() / strcasecmp()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "Go",
+   "version": "go1.27.3-X:nodwarf5",
+   "locale": "en_US.UTF-8",
+   "api": "strings.ToLower / strings.ToUpper / strings.EqualFold",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "Python",
+   "version": "3.14.8",
+   "locale": "en_US.UTF-8",
+   "api": "str.lower() / str.upper()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "JavaScript",
+   "version": "Node v26.12.1",
+   "locale": "en-US",
+   "api": "toLowerCase() / toUpperCase()",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  },
+  {
+   "lang": "Bash",
+   "version": "5.3.20(1)-release",
+   "locale": "en_US.UTF-8",
+   "api": "${var,,} / ${var^^}",
+   "lower_TITLE": "title",
+   "upper_title": "TITLE",
+   "FILE_equals_file": true
+  }
+ ]
+}

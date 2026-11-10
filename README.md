@@ -7,6 +7,7 @@ Each video has its own folder:
 | # | Video | What's in the folder |
 |---|---|---|
 | 002 | **[Turkey Designed a Keyboard for Turkish. QWERTY Won Anyway.](https://www.youtube.com/watch?v=VMBXn1zRJk4)** | 26 million letters of Turkish typed on Turkish Q vs Turkish F: resting keys, pinky load, hand alternation, the 49 / 51 hand split; plus every source used in the video. [→ `002-turkish-f-keyboard/`](002-turkish-f-keyboard/) |
+| 005 | **[This Turkish Letter Keeps Breaking the World's Software](https://www.youtube.com/watch?v=Ke-_V_XT5i4)** | The Turkey test, 2026: seven programming languages' basic case functions on a Linux computer set to Turkish (who writes `tıtle`), with the code to rerun it; plus every source used in the video. [→ `005-turkish-i/`](005-turkish-i/) |
 
 ## Found a mistake?
 
@@ -14,6 +15,6 @@ Each video has its own folder:
 
 ## License
 
-- **Code** (`*.py`): [MIT](LICENSE).
+- **Code** (everything in `analysis/` folders): [MIT](LICENSE).
 - **Text and results** (`*.md`, `*.json`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse them freely; just credit "Screensplained".
 - **Third-party data** keeps its own license: the text corpora come from the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download) and are not redistributed here; keyboard layouts come from [xkeyboard-config](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config).
