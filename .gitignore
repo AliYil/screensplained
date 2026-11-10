@@ -4,3 +4,10 @@ __pycache__/
 *_100K/
 *.tar.gz
 *-sentences.txt
+# Build output of the Turkey test (005), removed by run.sh when it finishes
+005-turkish-i/analysis/cs/obj/
+005-turkish-i/analysis/cs/bin/
+005-turkish-i/analysis/cs/out/
+005-turkish-i/analysis/java/*.class
+005-turkish-i/analysis/c/t
+005-turkish-i/analysis/go/t
